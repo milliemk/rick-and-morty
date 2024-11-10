@@ -1,8 +1,7 @@
 import React from "react";
-import { useState } from "react";
 import { Card } from "react-bootstrap";
 import "../styles/main.css";
-import MyModal from "./myModal";
+import MyModal from "./MyModal";
 
 function CharacterCard({ character }) {
   return (
